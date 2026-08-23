@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "VUI1sK6drjE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicer\\Desktop\\pkir\\bledy 1\\WeatherApi\\WeatherApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicer\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.3.12\\microsoft.aspnetcore.mvc.core.2.3.12.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.1.0\\microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.3\\swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.3\\swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "C:\\Users\\vicer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "Element PackageReference Microsoft.AspNetCore.Mvc.Core nie zostanie oczyszczony. Ten pakiet jest automatycznie dostępny i nie musi być jawnie przywoływany. Usuń element PackageReference.",
+      "projectPath": "C:\\Users\\vicer\\Desktop\\pkir\\bledy 1\\WeatherApi\\WeatherApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\vicer\\Desktop\\pkir\\bledy 1\\WeatherApi\\WeatherApi.csproj",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Core",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Pakiet „Newtonsoft.Json” 9.0.1 ma znane wysokie luki w zabezpieczeniach o ważności, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\vicer\\Desktop\\pkir\\bledy 1\\WeatherApi\\WeatherApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\vicer\\Desktop\\pkir\\bledy 1\\WeatherApi\\WeatherApi.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

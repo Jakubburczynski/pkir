@@ -1,0 +1,91 @@
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\appsettings.json
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\WeatherApi.staticwebassets.endpoints.json
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\WeatherApi.exe
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\WeatherApi.deps.json
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\WeatherApi.runtimeconfig.json
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\WeatherApi.dll
+C:\Users\vicer\WeatherApi\bin\Debug\net10.0\WeatherApi.pdb
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.AssemblyInfo.cs
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\scopedcss\bundle\WeatherApi.styles.css
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.dll
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\refint\WeatherApi.dll
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.pdb
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\WeatherApi.genruntimeconfig.cache
+C:\Users\vicer\WeatherApi\obj\Debug\net10.0\ref\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\appsettings.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\WeatherApi.staticwebassets.endpoints.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\WeatherApi.exe
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\WeatherApi.deps.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\WeatherApi.runtimeconfig.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\bin\Debug\net10.0\WeatherApi.pdb
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.AssemblyInfo.cs
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\scopedcss\bundle\WeatherApi.styles.css
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\refint\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.pdb
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\WeatherApi.genruntimeconfig.cache
+C:\Users\vicer\Desktop\pkir\webapi 3\weatherapi\obj\Debug\net10.0\ref\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\appsettings.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\WeatherApi.staticwebassets.endpoints.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\WeatherApi.exe
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\WeatherApi.deps.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\WeatherApi.runtimeconfig.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\WeatherApi.pdb
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.csproj.AssemblyReference.cache
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.AssemblyInfo.cs
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\scopedcss\bundle\WeatherApi.styles.css
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.csproj.Up2Date
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\refint\WeatherApi.dll
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.pdb
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\WeatherApi.genruntimeconfig.cache
+C:\Users\vicer\Desktop\pkir\kontrolery 1\WeatherApi\obj\Debug\net10.0\ref\WeatherApi.dll
